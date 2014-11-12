@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+require 'rubygems'
+$: << File.join(File.dirname(__FILE__), "..", "lib")
+require 'audite'
+require 'jpark'
+
+exit(JPark::Command.run || 0)
+
