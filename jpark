@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+#
+require 'audite'
+
+module JPark
+	class Application
+		def initialize
+			@player = Audite.new
+
+
+		end
+	end
+end
+
+JPark::Application.new
