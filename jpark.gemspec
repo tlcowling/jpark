@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name          = ''
+  s.name          = 'jpark'
 	s.version       = '0.0.1'
   s.licenses      = ['MIT']
 	s.summary       = "Its the JPark Command line tool!"
