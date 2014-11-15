@@ -3,3 +3,6 @@
 
 # Ignore built gems
 pkg
+
+# Ignore vim crap
+*.swp

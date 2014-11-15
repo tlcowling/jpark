@@ -1,2 +1,3 @@
 require 'jpark/namespace'
-require 'jpark/command'
+require 'jpark/version'
+require 'jpark/client'
