@@ -13,3 +13,6 @@ apt-get install libportaudiocpp0 portaudio19-dev libmpg123-dev
 Then run 
 
 ``bundle install``
+
+# Future Features
+Animated dinosaur
