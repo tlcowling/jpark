@@ -1,4 +1,6 @@
-# JPark -- Command Line Tool
+# JPark -- Command Line Tool [![Gem Version](https://badge.fury.io/rb/jpark.svg)](http://badge.fury.io/rb/jpark)
+
+:cow: :cow2: :cow: :cow2: :cow: :cow2:
 
 You'll need some extra dependencies
 
