@@ -26,7 +26,7 @@ module JPark
   	  `jpark version` will print out a message containing the version number.
   
   		> $ jpark version\n
-      > 0.0.1
+      > 0.0.2
     LONGDESC
     def version
       puts JPark::VERSION
